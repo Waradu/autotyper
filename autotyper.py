@@ -71,7 +71,7 @@ label = tk.Label(
     text="Achtung datei darf keinen indent haben\n(ctrl+a und dann so oft shift+tab drücken bis sich nichts mehr ändert)")
 label.pack(pady=10)
 
-file_button = tk.Button(root, text="Select File", command=select_file)
+file_button = tk.Button(root, text="Datei auswählen", command=select_file)
 file_button.pack(pady=10)
 
 label2 = tk.Label(
