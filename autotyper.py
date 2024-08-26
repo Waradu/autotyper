@@ -1,4 +1,3 @@
-import pyperclip
 from pynput.keyboard import Controller, Key, Listener
 import time
 import sys
