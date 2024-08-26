@@ -3,7 +3,7 @@ Schreibt dein code ab damit es nicht mit dieser Moodle IDE gemacht werden muss.
 
 ## Benutzten
 
-[autorun.exe hier herunterladen](https://github.com/Waradu/autotyper/releases/tag/v1.0.0)
+[autotyper.exe hier herunterladen](https://github.com/Waradu/autotyper/releases/tag/v1.0.0)
 
 1. Indent von dem code entfernen (ctrl+a und dann shift+tab bis sich nichts mehr ändert)
 2. Programm starten
