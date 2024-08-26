@@ -21,3 +21,4 @@ https://github.com/user-attachments/assets/31ab31fa-86d7-49bf-80e0-b27e73a78b5c
 2. Installiere python
 3. pip install pyinstaller pynput
 4. pyinstaller --onefile --noconsole --icon=bztf.ico .\autotyper.py
+5. exe ist in /dist
