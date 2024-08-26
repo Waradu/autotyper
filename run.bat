@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=bztf.ico .\autotyper.py
